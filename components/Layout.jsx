@@ -17,7 +17,7 @@ const Layout = ({ title, keywords, description, children }) => {
 
 Layout.defaultProps = {
    title: "DJ Events | Find the hottest parties",
-   description: "Find the latest DJ and other musical events",
+   description: "Find the latest DJ events and other musical events",
    keywords: "music, dj, edm, events",
 };
 
